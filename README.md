@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5D70D9&size=40&center=true&vCenter=true&width=1000&lines=Jo%C3%A3o+Victor+Fel%C3%ADcio+%E2%9C%8C%F0%9F%8F%BD;27+Anos+%F0%9F%97%BF;S%C3%A3o+Paulo/Brasil+%F0%9F%8C%86;An%C3%A1lise+e+Desenvolvimento+de+Sistemas+%F0%9F%93%9A;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-![Felicio GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorFelicio&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br&include_all_commits=true&card_width=400px)
+![Felicio GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorFelicio&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br&include_all_commits=true&card_width=450px)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFelicio&layout=compact&langs_count=7&theme=tokyonight&count_private=true&locale=pt-br&card_width=400px)](https://github.com/VictorFelicio/github-readme-stats)
 
 ## O que estou estudando e meus objetivos ! 📚
