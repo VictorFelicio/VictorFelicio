@@ -4,11 +4,11 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorFelicio&theme=nightowl&show_icons=true&locale=pt-br&include_all_commits=true&count_private=true&card_width=800)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFelicio&theme=nightowl&show_icons=true&locale=pt-br&langs_count=10&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFelicio&theme=nightowl&show_icons=true&locale=pt-br&langs_count=10&card_count_private=true&width=800)](https://github.com/anuraghazra/github-readme-stats)
 
 ## O que estou estudando e meus objetivos ! 📚
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,css,git,html,js,redux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,css,git,html,js,redux,sass,typescript,postgres,aws&theme=dark)](https://skillicons.dev)
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas pelo UNASP-SP , noturno 🌙 ! Com foco em desenvolver habilidades para a área de Front-End e futuramente um professor de tecnologia para crianças, adolescentes e adultos !!!
   
