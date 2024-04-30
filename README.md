@@ -8,7 +8,7 @@
 
 ## O que estou estudando e meus objetivos ! 📚
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,cs,git)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,css,git,html,js,redux&theme=light)](https://skillicons.dev)
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas pelo UNASP-SP , noturno 🌙 ! Com foco em desenvolver habilidades para a área de Front-End e futuramente um professor de tecnologia para crianças, adolescentes e adultos !!!
   
